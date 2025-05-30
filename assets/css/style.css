@@ -433,6 +433,7 @@ section.section4w{
 
 @media (max-width: 1024px) {
    .home {
+      grid-template-columns: repeat(1, 1fr);
       flex-direction: column;
       text-align: left;
       padding: 80px 5%;
