@@ -454,6 +454,10 @@ section.section4w{
       width: auto;
    }
 
+   .home-img img{
+      width: 250px;
+   }
+
    .about{
       
    }
@@ -487,6 +491,7 @@ section.section4w{
       padding: 15px 5%;
       flex-direction: column;
       align-items: flex-start;
+      padding: 0;
    }
 
    .navbar {
