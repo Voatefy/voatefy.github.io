@@ -455,6 +455,11 @@ section.section4w{
       width: auto;
    }
 
+   .navbar a{
+      font-size: 12px;
+   }
+
+
    
    .home-img img{
       width: 250px;
