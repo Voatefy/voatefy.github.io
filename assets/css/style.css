@@ -184,6 +184,16 @@ body {
    max-width: 40pc;
 }
 
+.home-img img{
+      border: solid cyan 6px;
+      border-radius: 50%;
+      object-fit: cover;
+      transform: scale(0);
+      box-shadow: 0 0 50px rgb(255, 255, 255);
+      animation: animate 1.5s ease forwards;
+   
+}
+
 #services{
    color: aliceblue;
    font-size: 20px;
